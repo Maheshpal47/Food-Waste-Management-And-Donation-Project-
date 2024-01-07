@@ -1,0 +1,93 @@
+*{
+	box-sizing: border-box;
+
+}
+body{
+	margin:0;
+height:100vh;
+width:100vw;
+overflow:hidden;
+font-family: 'Poppins', sans-serif;
+font-weight:700;
+display:flex;
+align-items:center;
+justify-content:center;
+background-color: #74c6b7;
+background-image: linear-gradient(90deg, #74c6b7 0%, #7880a5 100%);
+
+
+}
+.container{
+width:400px;
+height:700px;
+padding:60px 35px 35px 35px;
+border-radius:40px;
+background-color:#ecfof3;
+box-shadow:-13px -13px 20px #cbced1, 
+-13px -13px 20px #fff;
+}
+.header h2{
+text-align:center;
+font-size:30px;
+padding-top:30px;
+letter-spacing:0.5px;
+}
+.header h3{
+text-align:center;
+font-size:12px;
+padding-top:18px;
+letter-spacing:1px;
+}
+.fields{
+	width:100%;
+	padding:75px 5px 5px 5px;
+}
+.fields input{
+	border: none;
+	outline:none;
+	background: none;
+	font-size: 18px;
+	color:#555;
+	padding: 20px 10px 20px 5px;
+}
+.username,
+.password{
+	margin-bottom:30px;
+	border-radius:25px;
+	box-shadow:inset 8px 8px 8px #cdced1, inset -8px -8px 8px #fff;
+}
+.fields svg{
+	height:22px;
+	margin: 0 10px -3px 25px;
+}
+.log{
+	outline:none;
+	border:none;
+	cursor: pointer;
+	width:100%;
+	height:60px;
+	border-radius:30px;
+	font-size:20px;
+	font-weight:700;
+	font-family:"Lato", sans-serif;
+	color:#fff;
+	text-align:center;
+	background-color:#02c8db;
+	box-shadow:3px 3px 8px #b1b1b1, -3px -3px 8px #fff;
+	transition: all 0.5s;
+}
+.log:hover{
+	background-color:#50e5b9;
+}
+.log:active{
+	background-color:#88ef9e;
+}
+.link{
+	padding-top:20px;
+	text-align:center;
+}
+.link a{
+	text-decoration:none;
+	color:#154360 ;
+	font-size:15px;
+}

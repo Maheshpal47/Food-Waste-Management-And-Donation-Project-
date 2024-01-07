@@ -1,0 +1,46 @@
+.pv
+{
+  text-align: center;
+    font-family: plane;
+    height: 250px;
+ 
+}
+.pd
+{
+    height: 200px;
+
+}
+
+h1.restname
+{
+    font-size: 25px;
+    text-align: left;
+}
+h1.dat
+{
+    font-size: 25px;
+     text-align: left;
+
+ text-align: left;
+}
+h1.pincode
+{
+    font-size: 25px;
+ text-align: left;
+}
+h1.address
+{
+    font-size: 25px;
+ text-align: left;
+}
+h1.contact
+{
+    font-size: 25px;
+ text-align: left;
+}
+h1.postdata
+{
+    font-family: oldtown;
+    font-size: 20px;
+     text-align: left;
+}

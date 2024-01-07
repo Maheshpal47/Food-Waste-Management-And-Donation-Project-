@@ -1,0 +1,162 @@
+.posts
+{
+  background-color:#DDAF94;
+  border-radius: 5px;
+  margin: 10px;
+  height: 150px;
+  box-shadow:15px 20px 30px gray; 
+
+
+}
+h1.ngon
+{
+  font-size: 20px;
+  color: #FDF8F5;
+  font-family: plane;
+}
+h2.dt
+{
+    font-size: 20px;
+    color: #FDF8F5;
+    font-family: plane;
+
+}
+
+.others
+{
+  height: 600px;
+  background: #E8CEBF;
+  border-radius: 5px;
+}
+
+
+a.hom
+{
+   font-family: impact;
+ font-size: 20px;
+ text-align: center;
+}
+
+a.bt 
+{
+  background-color: #266150;
+  color: white;
+  font-family: plane;
+  box-shadow:5px 5px 10px gray; 
+}
+
+.foot
+{
+  height: 100px;
+  font-family: Trattatello;
+  background-color: #FDF8F5;
+
+  text-align: center;
+  align-content: center;
+  font-size: 50px;
+
+}
+.foot1
+{
+    height: 100px;
+    vertical-align: middle;
+}
+h1.t1
+{
+  font-size: 20px;
+  font-family: plane;
+  text-align:  center;
+  vertical-align: middle;
+}
+
+
+
+p.title2
+{
+  font-family: Blippo, fantasy;
+  font-size: 40px;
+  text-align: center;
+  margin-left: 30px;
+}
+a.homb
+{
+  background-color: #266150;
+  height: 30px;
+  width: 70px;
+  color: #FDF8F5;
+  justify-content: center;
+  margin-left: 50px;
+  margin-top: 22px;
+  font-family: plane;
+  border-radius: 5px;
+  text-align: center;
+}
+
+.nav
+{
+  height: 60px;
+
+}
+
+.filt
+{
+    align-content: center;
+  background-color: whitesmoke;
+  margin-top: 10px;
+  border-radius: 5px;
+  font-family: plane;
+    font-size: 15px;
+
+  text-align: center;
+  margin-bottom: 10px;
+
+}
+
+
+
+.pv
+{
+  text-align: center;
+    font-family: plane;
+    height: 250px;
+ 
+}
+.pd
+{
+    height: 200px;
+
+}
+
+h1.restname
+{
+    font-size: 25px;
+    text-align: left;
+}
+h1.dat
+{
+    font-size: 25px;
+     text-align: left;
+
+ text-align: left;
+}
+h1.pincode
+{
+    font-size: 25px;
+ text-align: left;
+}
+h1.address
+{
+    font-size: 25px;
+ text-align: left;
+}
+h1.contact
+{
+    font-size: 25px;
+ text-align: left;
+}
+h1.postdata
+{
+    font-family: oldtown;
+    font-size: 20px;
+     text-align: left;
+}
